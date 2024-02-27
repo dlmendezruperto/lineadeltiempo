@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(111, 175, 125);
+    background-color: rgb(157, 199, 166);
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 h1{
@@ -19,4 +19,9 @@ th{
 address{
     text-align: right;
     font-size: larger;
+}
+.vidio{
+    margin:auto;
+    text-align: center;
+    width: 15%;
 }
